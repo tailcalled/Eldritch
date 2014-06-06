@@ -1,0 +1,16 @@
+[
+{
+  "modid": "eldritch",
+  "name": "Eldritch Abominations",
+  "description": "Attempt to survive while discovering abominations of the universe.",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["Tailcalled"],
+  "credits": "The Forge and FML guys, for making Forge; Tailcalled, for making the actual mod; Extra Credits, for making a video on Cthulhu that inspired this mod",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
